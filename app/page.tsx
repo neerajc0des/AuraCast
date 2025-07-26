@@ -46,7 +46,7 @@ export default function Home() {
               <Visibility />
               <Pressure />
             </div>
-            <div className="mapbox-container mt-4 flex gap-4">
+            <div className="mapbox-container mt-4 flex gap-4 h-full">
               <Mapbox />
               <TopCities />
             </div>

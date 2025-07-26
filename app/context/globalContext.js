@@ -59,11 +59,11 @@ export const GlobalContextProvider = ({children}) =>{
     
 
     const fetchLatLonList = async (search) =>{
+      // console.log(latLonList);
       try {
         const res = await axios.get(`api/latLonConvert?search=${search}`);
         
         setLatLonList(res.data);
-        // console.log(res.data);
       } catch (error) {
         console.log("Error fetching lat and lon: ", error.message);
       }
