@@ -24,7 +24,7 @@ const Navbar = () => {
           <ThemeDropdown />
 
           <Button className='source-code flex items-center gap-2' onClick={() => {
-            router.push("https://github.com/neerajc0des/weatherappnext");}}>
+            router.push("https://github.com/neerajc0des/AuraCast");}}>
             {github} Source Code
           </Button>
         </div>
