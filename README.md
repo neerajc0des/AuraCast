@@ -17,7 +17,7 @@ This is a weather forecast web application built using Next.js framework and sty
 
 
 ## Usage
-* You can visit this link - <a href="https://auracast.vercel.app/" target="_blank"></a>
+* You can visit this link - [here](https://auracast.vercel.app/)
 
 ## Technologies Used
 Next.js
