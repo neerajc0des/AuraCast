@@ -1,4 +1,4 @@
-# Weather Forecast Web Application
+# AuraCast
 This is a weather forecast web application built using Next.js framework and styled with Tailwind CSS. It provides users with up-to-date weather information, including temperature, air pollution levels, wind speed, UV index, and more. The application integrates data from the OpenWeather and OpenMeteo APIs to deliver accurate forecasts. Additionally, it utilizes Leaflet for interactive maps to locate the selected city.
 
 ## Features
@@ -17,7 +17,7 @@ This is a weather forecast web application built using Next.js framework and sty
 
 
 ## Usage
-* You can visit this link - _linkHere_
+* You can visit this link - [here](https://auracast.vercel.app/)
 
 ## Technologies Used
 Next.js
